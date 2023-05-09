@@ -30,7 +30,7 @@ For this I'm going to list two courses that are both very good at teaching the b
 This course, by Frontend Masters, teaches the basics of algorithms and data structures, including sorting algorithms and graph algorithms. I have also added a book, Introduction To Algorithms, considered to be the holy grail of algorithm books. This book is widely used as textbook for algorithms courses in many universities around the world.
 
 [Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews | Frontend Masters](https://frontendmasters.com/courses/algorithms/)
-[Introduction To Algorithms]([Introduction To Algorithms By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein (z Lib.org) : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/introduction-to-algorithms-by-thomas-h.-cormen-charles-e.-leiserson-ronald.pdf))
+[Introduction To Algorithms By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein](https://archive.org/details/introduction-to-algorithms-by-thomas-h.-cormen-charles-e.-leiserson-ronald.pdf)
 
 ## 4. Database
 
