@@ -23,7 +23,7 @@ For this I'm going to list two courses that are both very good at teaching the b
 
 [Code Gym](https://codegym.cc/)
 
-[University of Helsinki MOOC Object-Oriented programming with Java]([About the course - Java Programming (mooc.fi)](https://java-programming.mooc.fi/))
+[University of Helsinki MOOC Object-Oriented programming with Java](https://java-programming.mooc.fi/)
 
 ## 3. Data Structures & Algorithms
 
