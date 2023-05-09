@@ -29,13 +29,13 @@ This course, by Frontend Masters, teaches the basics of algorithms and data stru
 
 [Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews | Frontend Masters](https://frontendmasters.com/courses/algorithms/)[Introduction To Algorithms]([Introduction To Algorithms By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein (z Lib.org) : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/introduction-to-algorithms-by-thomas-h.-cormen-charles-e.-leiserson-ronald.pdf))
 
-## 3. Database
+## 4. Database
 
 Databases are an essential part of modern technology, allowing organizations to efficiently store, manage, and retrieve large amounts of data. Here I have added a course from freeCodeCamp for PostgreSQL, which is a relational database.
 
 [Learn PostgreSQL Tutorial - Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
-## 4. The Complete Web Developer Course
+## 5. The Complete Web Developer Course
 
 The Odin Project is a free, open-source curriculum for learning web development. It offers a structured, self-paced learning path that includes coding challenges and projects. The curriculum covers everything from basic HTML and CSS to more advanced topics like databases and server-side programming.
 
